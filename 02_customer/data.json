@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Mardy",
+    "gender": "M",
+    "email": "tangsokmarady@gmail.com",
+    "birthday": "1997"
+  },
+  {
+    "name": "Pisey",
+    "gender": "F",
+    "email": "Pisey@gmail.com",
+    "birthday": "1999"
+  },
+  {
+    "name": "Meng",
+    "gender": "M",
+    "email": "Meng@gmail.com",
+    "birthday": "1999"
+  },
+  {
+    "name": "\uc548\uc815\ud68c",
+    "gender": "F",
+    "email": "ann1111@gmail.com",
+    "birthday": "2000"
+  }
+]
